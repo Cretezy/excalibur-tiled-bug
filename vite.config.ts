@@ -1,6 +1,6 @@
-import {defineConfig} from "vite";
+import { defineConfig } from "vite";
 
 export default defineConfig({
-    assetsInclude: ['**/*.tmj','**/*.tsj'],
-    publicDir:"assets"
-})
+  assetsInclude: ["**/*.tmj", "**/*.tsj"],
+  publicDir: "assets",
+});
