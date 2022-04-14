@@ -1,0 +1,4 @@
+- `index.html`: Title
+- `assets/favicon.svg`
+- `package.json`: Name, versions?
+- `LICENSE` year

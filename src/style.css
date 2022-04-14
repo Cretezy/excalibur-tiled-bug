@@ -1,0 +1,8 @@
+html,body {
+  margin:0;
+}
+
+#game-wrapper {
+  display: flex;
+  justify-content: center;
+}
